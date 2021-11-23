@@ -10,3 +10,11 @@ body {
 .custom {
     width: auto;
 }
+
+.logo {
+    width: 50%;
+}
+
+.aver {
+    margin-left: 900px;
+}
